@@ -1,0 +1,3 @@
+/home/andrey/Desktop/Vichmat/cmake-build-debug/CMakeFiles/Vichmat.dir
+/home/andrey/Desktop/Vichmat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/Desktop/Vichmat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
